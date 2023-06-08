@@ -1,0 +1,65 @@
+Write a function that takes a string as input and returns the longest word in the string.
+
+Implement a function that takes an array of integers as input and returns the sum of the two largest numbers.
+
+Write a function that takes a string as input and determines whether it is a palindrome (reads the same forwards and backwards).
+
+Implement a function that takes two arrays as input and returns the common elements between them.
+
+Create a function that takes an array of numbers as input and returns an array with only the prime numbers from the original array.
+
+Write a function that takes a sorted array of numbers as input and finds the missing number in the sequence.
+
+Implement a function that takes an array of objects with "name" and "age" properties and returns the average age of all the objects.
+
+Create a function that takes a string as input and returns the most common character in the string.
+
+Write a function that takes an array of integers as input and returns an array with the top K largest numbers, where K is an input parameter.
+
+Implement a function that takes an array of integers as input and returns the maximum possible sum of a subarray within the array.
+
+
+
+
+OUTPUTS
+Find the longest word in a string:
+Input: "The quick brown fox"
+Output: "quick"
+
+Sum of the two largest numbers in an array:
+Input: [5, 8, 2, 10, 3]
+Output: 18 (sum of 10 and 8)
+
+Check if a string is a palindrome:
+Input: "racecar"
+Output: true
+
+Find common elements between two arrays:
+Input: [1, 2, 3, 4], [3, 4, 5, 6]
+Output: [3, 4]
+
+Filter prime numbers from an array:
+Input: [2, 3, 4, 5, 6, 7, 8, 9]
+Output: [2, 3, 5, 7]
+
+Find the missing number in a sorted array:
+Input: [1, 2, 3, 5, 6, 7, 8]
+Output: 4
+
+Calculate the average age from an array of objects:
+Input: [{ name: "John", age: 25 }, { name: "Jane", age: 30 }, { name: "Mike", age: 20 }]
+Output: 25 (average of 25, 30, and 20)
+
+Find the most common character in a string:
+Input: "Hello, world!"
+Output: "l" (as "l" appears the most)
+
+Get the top K largest numbers from an array:
+Input: [10, 5, 8, 3, 2, 9], K = 3
+Output: [10, 9, 8] (top 3 largest numbers)
+
+Find the maximum sum of a subarray within an array:
+Input: [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+Output: 6 (maximum sum of the subarray [4, -1, 2, 1])
+
+
